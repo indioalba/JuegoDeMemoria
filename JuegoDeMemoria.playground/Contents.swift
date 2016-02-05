@@ -1,4 +1,7 @@
-//: Playground - noun: a place where people can play
+/**
+ * %author  Manuel Reyes
+ * %create  04/02/2015
+ **/
 
 import UIKit
 
